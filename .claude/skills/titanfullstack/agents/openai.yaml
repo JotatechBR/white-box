@@ -1,0 +1,16 @@
+interface:
+  display_name: titanfullstack
+  short_description: O Titanfullstack ajuda você a gerar rapidamente aplicações web
+    *full-stack*, oferecendo orientações personalizadas tanto para o desenvolvimento
+    *front-end* quanto para o *back-end*. Utilize esta ferramenta quando precisar
+    de auxílio para projetar, construir ou solucionar problemas em seus projetos web,
+    visando criar aplicações funcionais e visualmente atraentes de maneira eficiente.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
